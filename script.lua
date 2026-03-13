@@ -1,4 +1,4 @@
-local key = "222"
+local key = "333"
 local player = game.Players.LocalPlayer
 local UIS = game:GetService("UserInputService")
 local TeleportService = game:GetService("TeleportService")
