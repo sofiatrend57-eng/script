@@ -32,3 +32,6 @@ local keybox = Instance.new("TextBox",keyframe)
 keybox.Size = UDim2.new(0,200,0,40)
 keybox.Position = UDim2.new(0.5,-100,0.3,0)
 keybox.PlaceholderText = "Digite a key"
+icon.MouseButton1Click:Connect(function()
+    panel.Visible = not panel.Visible
+end)
